@@ -4,5 +4,3 @@
 
 Опубликованно по ссылке: MODERATED ON PLAY CONSOLE
 
-## Getting Started
-
