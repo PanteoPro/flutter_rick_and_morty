@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/Library/Widgets/Inherited/provider.dart';
-import 'package:rick_and_morty_app/logic/models/my_app.dart';
-import 'package:rick_and_morty_app/resources/resources.dart';
+import 'package:rick_and_morty_unofficial_wiki/Library/Widgets/Inherited/provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/my_app.dart';
+import 'package:rick_and_morty_unofficial_wiki/resources/resources.dart';
 
 class NewsWidget extends StatelessWidget {
   const NewsWidget({Key? key}) : super(key: key);

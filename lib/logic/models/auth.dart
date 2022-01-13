@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
-import 'package:rick_and_morty_app/logic/domain/api/api_client.dart';
-import 'package:rick_and_morty_app/logic/domain/data_providers/session_data_provider.dart';
-import 'package:rick_and_morty_app/resources/constants.dart';
-import 'package:rick_and_morty_app/ui/navigation/main_navigation.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/api/api_client.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/data_providers/session_data_provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/resources/constants.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/navigation/main_navigation.dart';
 
 class AuthModel extends ChangeNotifier {
   final _sessionDataProvider = SessionDataProvider();

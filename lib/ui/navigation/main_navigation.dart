@@ -1,18 +1,18 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/Library/Widgets/Inherited/provider.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/character.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/episode.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/location.dart';
-import 'package:rick_and_morty_app/logic/models/auth.dart';
-import 'package:rick_and_morty_app/logic/models/detail_character.dart';
-import 'package:rick_and_morty_app/logic/models/detail_episode.dart';
-import 'package:rick_and_morty_app/logic/models/detail_location.dart';
-import 'package:rick_and_morty_app/ui/pages/auth_page.dart';
-import 'package:rick_and_morty_app/ui/pages/detail_character_page.dart';
-import 'package:rick_and_morty_app/ui/pages/detail_episode_page.dart';
-import 'package:rick_and_morty_app/ui/pages/detail_location_page.dart';
-import 'package:rick_and_morty_app/ui/pages/main_page.dart';
+import 'package:rick_and_morty_unofficial_wiki/Library/Widgets/Inherited/provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/character.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/episode.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/location.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/auth.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/detail_character.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/detail_episode.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/detail_location.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/pages/auth_page.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/pages/detail_character_page.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/pages/detail_episode_page.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/pages/detail_location_page.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/pages/main_page.dart';
 
 abstract class MainNavigationRouteNames {
   static const auth = 'auth';

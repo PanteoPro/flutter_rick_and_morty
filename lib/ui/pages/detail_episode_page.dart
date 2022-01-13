@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/Library/Widgets/Inherited/provider.dart';
-import 'package:rick_and_morty_app/Theme/app_colors.dart';
-import 'package:rick_and_morty_app/logic/models/detail_episode.dart';
-import 'package:rick_and_morty_app/ui/widgets/main/episodes/detail/detail_episode_header_widget.dart';
+import 'package:rick_and_morty_unofficial_wiki/Library/Widgets/Inherited/provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/Theme/app_colors.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/detail_episode.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/widgets/main/episodes/detail/detail_episode_header_widget.dart';
 
 class DetailEpisodePage extends StatelessWidget {
   const DetailEpisodePage({Key? key}) : super(key: key);

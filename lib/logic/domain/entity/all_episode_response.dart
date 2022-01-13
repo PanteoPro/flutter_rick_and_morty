@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/episode.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/info_response.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/episode.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/info_response.dart';
 
 part 'all_episode_response.g.dart';
 

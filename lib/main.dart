@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:rick_and_morty_app/Library/Widgets/Inherited/provider.dart';
-import 'package:rick_and_morty_app/Theme/app_colors.dart';
-import 'package:rick_and_morty_app/logic/models/my_app.dart';
-import 'package:rick_and_morty_app/ui/navigation/main_navigation.dart';
+import 'package:rick_and_morty_unofficial_wiki/Library/Widgets/Inherited/provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/Theme/app_colors.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/my_app.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/navigation/main_navigation.dart';
 
 Future<void> main() async {
   await Hive.initFlutter();

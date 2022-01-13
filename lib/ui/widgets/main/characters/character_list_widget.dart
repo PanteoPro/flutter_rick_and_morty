@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/Library/Widgets/Inherited/provider.dart';
-import 'package:rick_and_morty_app/Theme/app_colors.dart';
-import 'package:rick_and_morty_app/logic/models/character_list.dart';
-import 'package:rick_and_morty_app/resources/constants.dart';
-import 'package:rick_and_morty_app/ui/widgets/main/characters/character_list_item_widget.dart';
+import 'package:rick_and_morty_unofficial_wiki/Library/Widgets/Inherited/provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/Theme/app_colors.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/character_list.dart';
+import 'package:rick_and_morty_unofficial_wiki/resources/constants.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/widgets/main/characters/character_list_item_widget.dart';
 
 class CharacterListWidget extends StatelessWidget {
   const CharacterListWidget({Key? key}) : super(key: key);

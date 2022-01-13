@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/Library/Widgets/Inherited/provider.dart';
-import 'package:rick_and_morty_app/Theme/app_colors.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/location.dart';
-import 'package:rick_and_morty_app/logic/models/location_list.dart';
-import 'package:rick_and_morty_app/resources/constants.dart';
+import 'package:rick_and_morty_unofficial_wiki/Library/Widgets/Inherited/provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/Theme/app_colors.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/location.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/location_list.dart';
+import 'package:rick_and_morty_unofficial_wiki/resources/constants.dart';
 
 class LocationListItemWidget extends StatelessWidget {
   const LocationListItemWidget({Key? key, required this.location}) : super(key: key);

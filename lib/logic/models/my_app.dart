@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:rick_and_morty_app/logic/domain/api/api_client.dart';
-import 'package:rick_and_morty_app/logic/domain/data_providers/session_data_provider.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/character.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/episode.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/location.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/api/api_client.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/data_providers/session_data_provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/character.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/episode.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/location.dart';
 
 enum _EntityName { character, episode, location }
 

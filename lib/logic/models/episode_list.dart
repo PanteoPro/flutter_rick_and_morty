@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:hive/hive.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/episode.dart';
-import 'package:rick_and_morty_app/logic/models/my_app.dart';
-import 'package:rick_and_morty_app/ui/navigation/main_navigation.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/episode.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/my_app.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/navigation/main_navigation.dart';
 
 class EpisodeListModel extends ChangeNotifier {
   final _episodes = <Episode>[];

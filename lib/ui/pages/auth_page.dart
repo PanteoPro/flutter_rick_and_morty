@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/resources/constants.dart';
-import 'package:rick_and_morty_app/ui/widgets/auth/auth_header_widget.dart';
+import 'package:rick_and_morty_unofficial_wiki/resources/constants.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/widgets/auth/auth_header_widget.dart';
 
 class AuthPage extends StatefulWidget {
   const AuthPage({Key? key}) : super(key: key);

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/resources/constants.dart';
-import 'package:rick_and_morty_app/ui/widgets/auth/auth_header_form_widget.dart';
+import 'package:rick_and_morty_unofficial_wiki/resources/constants.dart';
+import 'package:rick_and_morty_unofficial_wiki/ui/widgets/auth/auth_header_form_widget.dart';
 
 class AuthHeaderWidget extends StatelessWidget {
   const AuthHeaderWidget({Key? key}) : super(key: key);

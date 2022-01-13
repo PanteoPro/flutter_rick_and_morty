@@ -1,6 +1,6 @@
 import 'package:hive/hive.dart';
 import 'package:json_annotation/json_annotation.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/character.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/character.dart';
 
 part 'location.g.dart';
 

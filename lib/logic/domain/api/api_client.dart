@@ -3,9 +3,9 @@ import 'dart:io';
 // import 'dart:io';
 
 import 'package:http/http.dart' as http;
-import 'package:rick_and_morty_app/logic/domain/entity/all_character_response.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/all_episode_response.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/all_location_response.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/all_character_response.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/all_episode_response.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/all_location_response.dart';
 
 enum ApiClientExceptionType { Network, Auth, Other }
 

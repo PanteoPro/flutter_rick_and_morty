@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:rick_and_morty_app/Library/Widgets/Inherited/provider.dart';
-import 'package:rick_and_morty_app/logic/domain/entity/character.dart';
-import 'package:rick_and_morty_app/logic/models/detail_location.dart';
-import 'package:rick_and_morty_app/resources/resources.dart';
+import 'package:rick_and_morty_unofficial_wiki/Library/Widgets/Inherited/provider.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/domain/entity/character.dart';
+import 'package:rick_and_morty_unofficial_wiki/logic/models/detail_location.dart';
+import 'package:rick_and_morty_unofficial_wiki/resources/resources.dart';
 
 class DetailLocationHeaderWidget extends StatelessWidget {
   const DetailLocationHeaderWidget({Key? key}) : super(key: key);
